@@ -1,5 +1,5 @@
 # 数据挖掘
-
+仓库链接：https://github.com/tStone74/ChenLeiDataMining
 ## 1.注册用户
 
 [GitHub: Let’s build from here · GitHub](https://github.com/)
